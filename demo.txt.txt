@@ -1,0 +1,6 @@
+name age salary bonus gender
+kp 22 21000 220 M
+bp 21 10000 100 F
+ap 34 30000 50 M
+ww 38 45000 4400 M
+dd 31 44444 20 F
